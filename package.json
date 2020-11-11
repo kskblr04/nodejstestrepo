@@ -1,0 +1,22 @@
+{
+  "name": "nodejstestrepo",
+  "version": "1.0.0",
+  "description": "just learning",
+  "main": "hello.js",
+  "scripts": {
+    "test": "testme"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kskblr04/nodejstestrepo.git"
+  },
+  "author": "dumdum",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kskblr04/nodejstestrepo/issues"
+  },
+  "homepage": "https://github.com/kskblr04/nodejstestrepo#readme",
+  "dependencies": {
+    "cities": "^2.0.0"
+  }
+}
