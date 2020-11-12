@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/kskblr04/nodejstestrepo#readme",
   "dependencies": {
-    "cities": "^2.0.0"
+    "cities": "^2.0.0",
+    "http-status-codes": "^2.1.4"
   }
 }
